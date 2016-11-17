@@ -1,0 +1,22 @@
+{
+  "name": "afd",
+  "version": "1.0.0",
+  "description": "sadf",
+  "main": "sdf",
+  "scripts": {
+    "test": "asfd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "afd"
+  },
+  "keywords": [
+    "adf"
+  ],
+  "author": "adf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "utility": "^1.9.0"
+  }
+}
