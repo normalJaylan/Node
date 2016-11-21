@@ -1,0 +1,22 @@
+{
+  "name": "adf",
+  "version": "1.0.0",
+  "description": "asdf",
+  "main": "af",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sadf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asdf"
+  },
+  "keywords": [
+    "asdf"
+  ],
+  "author": "asdf",
+  "license": "ISC"
+}
