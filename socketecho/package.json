@@ -1,0 +1,20 @@
+{
+  "name": "hou",
+  "version": "1.0.0",
+  "description": "da",
+  "main": "a",
+  "scripts": {
+    "test": "d"
+  },
+  "keywords": [
+    "d"
+  ],
+  "author": "d",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.2"
+  }
+}
